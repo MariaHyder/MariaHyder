@@ -83,7 +83,7 @@ A complete ML pipeline that trains a defect-classification model and compresses 
 
 `Python` `TensorFlow` `TensorFlow Lite (INT8 Quantization)` `OpenCV` `scikit-learn` `Computer Vision` `Embedded Deployment`
 
-<!-- 🔗 Add your repo link here: [View Repository »](https://github.com/MariaHyder/Project-Vision-Edge) -->
+   🔗 [View Repository »](https://github.com/MariaHyder/Project-Vision-Edge)
 
 </td>
 </tr>
