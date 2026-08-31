@@ -13,13 +13,13 @@
 ## ⚡ About Me
 
 ```yaml
-name: Maria Hyder
-role: Undergraduate Electrical Engineer
-university: National University of Sciences and Technology (NUST CEME)
-focus: [Embedded Systems,Machine Learning, Circuit Design, Applied AI, PCB Design]
-currently_building: "Project Vision-Edge — an edge-AI defect inspection system"
-also_into: [Sketching, Graphic Design, Web Design]
-fun_fact: "I design circuits by day and sketch by night 🎨"
+Name: Maria Hyder
+Role: Undergraduate Electrical Engineer
+University: National University of Sciences and Technology (NUST CEME)
+Focus: [Embedded Systems,Machine Learning, Circuit Design, Applied AI, PCB Design]
+Currently_building: "Project Vision-Edge — an edge-AI defect inspection system"
+Also_into: [Sketching, Graphic Design, Web Design]
+Fun_fact: "I design circuits by day and sketch by night 🎨"
 ```
 
 I'm an Electrical Engineering student who likes projects that sit at the intersection of **hardware and intelligence** — from simulating antennas in HFSS to training a neural network that can run on embedded hardware. I care about clean documentation, methodical debugging, and building things that actually work outside of a simulation window.
