@@ -121,7 +121,7 @@
     <circle cx="500" cy="66" r="6" fill="#EF4444" opacity="0.8"/>
     <circle cx="522" cy="66" r="6" fill="#F59E0B" opacity="0.8"/>
     <circle cx="544" cy="66" r="6" fill="#10B981" opacity="0.8"/>
-    <text x="568" y="71" font-size="13" fill="#94A3B8">maria@nust-ceme:~$ whoami</text>
+    <text x="568" y="71" font-size="13" fill="#94A3B8">maria@nust_ceme</text>
     <line x1="500" y1="86" x2="1120" y2="86" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
     <!-- greeting -->
@@ -142,8 +142,8 @@
       <text x="500" y="235" opacity="0">📍 Rawalpindi, Pakistan<animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.5s" fill="freeze"/></text>
       <text x="500" y="260" opacity="0">🎓 B.E. Electrical Engineering — NUST CEME<animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.5s" fill="freeze"/></text>
       <text x="500" y="285" opacity="0">🔭 Currently building: Project Vision-Edge (Edge AI)<animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.5s" fill="freeze"/></text>
-      <text x="500" y="310" opacity="0">🌐 Portfolio: add-your-link-here<animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.5s" fill="freeze"/></text>
-      <text x="500" y="335" opacity="0">✉️ mhere060@gmail.com<animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.5s" fill="freeze"/></text>
+      <text x="500" y="310" opacity="0">🌐 Portfolio: <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.5s" fill="freeze"/></text>
+      <text x="500" y="335" opacity="0">✉️ mhyder.ee45ceme@student.nust.edu.pk<animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.5s" fill="freeze"/></text>
     </g>
 
     <!-- skill pills -->
